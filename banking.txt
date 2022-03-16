@@ -3,4 +3,5 @@ Welocme to Payments Bank
 Deposit
 Withdraw
 Internet Banking
+POS Transaction
 Receipt generator
