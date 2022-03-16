@@ -2,3 +2,4 @@ Welocme to Payments Bank
 
 Deposit
 Withdraw
+Internet Banking
