@@ -4,3 +4,4 @@ Deposit
 Withdraw
 Internet Banking
 POS Transaction
+Receipt generator
